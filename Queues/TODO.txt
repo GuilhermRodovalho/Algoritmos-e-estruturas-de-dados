@@ -1,0 +1,5 @@
+1 - correct Deque add last (when the queue is empty)
+2 - correct Deque remove last (when there is only one node)
+3 - throws the rights exceptions when something goes wrong (check the auto correct)
+4 - Iterator has some problems
+5 - change the size of the array when you remove lots of items
